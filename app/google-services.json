@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "630073772644",
+    "project_id": "uasmobile-6ccbb",
+    "storage_bucket": "uasmobile-6ccbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630073772644:android:d7b3a8af4aff84cd55ed71",
+        "android_client_info": {
+          "package_name": "id.sttbandung.uas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMbnZ2Rqg0MXoBW2g39qZpyI3oCmEFwu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
